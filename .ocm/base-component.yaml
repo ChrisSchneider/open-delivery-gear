@@ -1,13 +1,13 @@
 componentReferences:
 - componentName: ocm.software/open-delivery-gear/core
   name: odg-core
-  version: 0.1358.0
+  version: 0.1363.0
 - componentName: ocm.software/open-delivery-gear/observability
   name: odg-observability
   version: 0.31.0
 - componentName: ocm.software/open-delivery-gear/ui
   name: odg-ui
-  version: 0.436.0
+  version: 0.437.0
 labels:
 - name: cloud.gardener.cnudie/responsibles
   value:
